@@ -1,0 +1,116 @@
+{
+  "uz": {
+    "secTitle": "Bitiruvchilar klubi azolari qoldirgan sharhlari.",
+    "backgroundImage": "vd-bg.jpg",
+    "dataList": [
+      {
+        "id": "1",
+        "testimonialTitle": "TATU men uchun hayotdagi burilish nuqtasi bo‘ldi.",
+        "testimonialDesc": "Universitetda olgan bilimlarim asosida hozirda xalqaro IT kompaniyasida dasturchi bo‘lib ishlayapman. Ayniqsa, algoritmlar va ma’lumotlar tuzilmasi fanlarida olgan saboqlarim ishda juda asqotadi. Dasturlash musobaqalari orqali tajriba va do‘stlar orttirdim.",
+        "authorImg": "testimonial-1.jpg",
+        "authorName": "Azizbek",
+        "authorTitle": "Azizbek, 2018-yil bitiruvchisi (Kompyuter injiniring yo‘nalishi)"
+      },
+      {
+        "id": "2",
+        "testimonialTitle": "TATU It soxasiga kirishimga sababchi bo'ldi.",
+        "testimonialDesc": "TATUda o‘qigan vaqtimda ayollar uchun IT sohasidagi imkoniyatlar cheklangan deb o‘ylardim, lekin universitet menga qarashlarni o‘zgartirdi. Hozirda bank tizimida axborot xavfsizligi bo‘yicha mutaxassis bo‘lib ishlayman. Dasturiy ta’minotlarni himoyalash bo‘yicha olgan bilimlarim amaliyotda to‘liq ish bermoqda.",
+        "authorImg": "testimonial-2.jpg",
+        "authorName": "Dildora",
+        "authorTitle": "2020-yil bitiruvchisi (Axborot xavfsizligi yo‘nalishi)"
+      },
+      {
+        "id": "3",
+        "testimonialTitle": "TATUdan olgan asosiy bilimlar hozir ham ishimda asqotadi.",
+        "testimonialDesc": "Universitetni tugatganimga yillar bo‘ldi, lekin TATUdagi asosiy bilimlar hozir ham ishimda asqotadi. O‘sha vaqtda zamonaviy laboratoriyalar mavjud edi, hozir esa yanada rivojlangan deb eshitdim. Telekom kompaniyada injener bo‘lib ishlayman, diplomim va amaliyotim tufayli yaxshi pozitsiyaga erishdim.",
+        "authorImg": "testimonial-2.jpg",
+        "authorName": "Anvar",
+        "authorTitle": "2015-yil bitiruvchisi (Telekommunikatsiya yo‘nalishi)"
+      },
+      {
+        "id": "4",
+        "testimonialTitle": "TATU nafaqat texnik bilimlar, balki kreativ fikrlashni ham o‘rgatdi.",
+        "testimonialDesc": "Men hozir media loyihalarda dizayner sifatida faoliyat yuritaman. Universitetda o‘rganilgan animatsiya, 3D-modellashtirish kabi ko‘nikmalar bugungi kasbimning asosiga aylangan. Bitiruvdan so‘ng ham ustozlar bilan aloqamiz davom etmoqda.",
+        "authorImg": "testimonial-2.jpg",
+        "authorName": "Laylo",
+        "authorTitle": "2019-yil bitiruvchisi (Multimedia texnologiyalari yo‘nalishi)"
+      }
+    ]
+  },
+  "ru": {
+    "secTitle": "Отзывы участников клуба выпускников.",
+    "backgroundImage": "vd-bg.jpg",
+    "dataList": [
+      {
+        "id": "1",
+        "testimonialTitle": "TATU стала для меня поворотной точкой в жизни.",
+        "testimonialDesc": "Благодаря знаниям, полученным в университете, я сейчас работаю разработчиком в международной IT-компании. Особенно полезны навыки по алгоритмам и структурам данных. Конкурсы по программированию помогли мне приобрести опыт и друзей.",
+        "authorImg": "testimonial-1.jpg",
+        "authorName": "Азизбек",
+        "authorTitle": "Азизбек, выпускник 2018 года (Направление Компьютерная инженерия)"
+      },
+      {
+        "id": "2",
+        "testimonialTitle": "TATU помог мне войти в IT-сферу.",
+        "testimonialDesc": "Когда я училась в TATU, я думала, что возможности для женщин в IT ограничены, но университет изменил моё мнение. Сейчас я работаю специалистом по информационной безопасности в банке. Знания по защите программного обеспечения полностью применяются на практике.",
+        "authorImg": "testimonial-2.jpg",
+        "authorName": "Дилдора",
+        "authorTitle": "Выпускница 2020 года (Направление Информационная безопасность)"
+      },
+      {
+        "id": "3",
+        "testimonialTitle": "Основные знания, полученные в TATU, помогают мне и сейчас.",
+        "testimonialDesc": "Прошло много лет с момента окончания университета, но знания, полученные в TATU, до сих пор помогают в работе. Тогда были современные лаборатории, сейчас слышала, что они ещё более развиты. Работаю инженером в телеком-компании, благодаря диплому и практике достигла хорошей позиции.",
+        "authorImg": "testimonial-2.jpg",
+        "authorName": "Анвар",
+        "authorTitle": "Выпускник 2015 года (Направление Телекоммуникации)"
+      },
+      {
+        "id": "4",
+        "testimonialTitle": "TATU научил не только техническим знаниям, но и креативному мышлению.",
+        "testimonialDesc": "Сейчас я работаю дизайнером в медиа-проектах. Навыки, полученные в университете (анимация, 3D-моделирование), стали основой моей профессии. После выпуска связь с преподавателями продолжается.",
+        "authorImg": "testimonial-2.jpg",
+        "authorName": "Лайло",
+        "authorTitle": "Выпускница 2019 года (Направление Мультимедиа технологии)"
+      }
+    ]
+  },
+  "en": {
+    "secTitle": "Testimonials from Alumni Club members.",
+    "backgroundImage": "vd-bg.jpg",
+    "dataList": [
+      {
+        "id": "1",
+        "testimonialTitle": "TATU was a turning point in my life.",
+        "testimonialDesc": "Based on the knowledge I gained at university, I am now working as a developer in an international IT company. Particularly, lessons in algorithms and data structures are very useful. Programming competitions helped me gain experience and friends.",
+        "authorImg": "testimonial-1.jpg",
+        "authorName": "Azizbek",
+        "authorTitle": "Azizbek, 2018 graduate (Computer Engineering)"
+      },
+      {
+        "id": "2",
+        "testimonialTitle": "TATU helped me enter the IT field.",
+        "testimonialDesc": "When I studied at TATU, I thought opportunities for women in IT were limited, but the university changed my perspective. I am now working as an information security specialist in a bank. Knowledge in software protection is fully applied in practice.",
+        "authorImg": "testimonial-2.jpg",
+        "authorName": "Dildora",
+        "authorTitle": "2020 graduate (Information Security)"
+      },
+      {
+        "id": "3",
+        "testimonialTitle": "Core knowledge from TATU still helps in my work.",
+        "testimonialDesc": "Years have passed since I graduated, but the core knowledge from TATU still helps me in my work. Back then, modern labs existed; now I hear they are even more advanced. I work as an engineer in a telecom company, and thanks to my diploma and practice, I achieved a good position.",
+        "authorImg": "testimonial-2.jpg",
+        "authorName": "Anvar",
+        "authorTitle": "2015 graduate (Telecommunications)"
+      },
+      {
+        "id": "4",
+        "testimonialTitle": "TATU taught not only technical knowledge but also creative thinking.",
+        "testimonialDesc": "I currently work as a designer in media projects. Skills learned at university, like animation and 3D modeling, form the foundation of my career. Even after graduation, we maintain contact with professors.",
+        "authorImg": "testimonial-2.jpg",
+        "authorName": "Laylo",
+        "authorTitle": "2019 graduate (Multimedia Technologies)"
+      }
+    ]
+  }
+}

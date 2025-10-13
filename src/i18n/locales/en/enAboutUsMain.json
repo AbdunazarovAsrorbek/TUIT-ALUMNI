@@ -1,0 +1,11 @@
+{
+    "title": "The university has been operating since 1955.",
+    "description": "The Tashkent University of Information Technologies named after Muhammad al-Khwarizmi (abbreviated as TUIT) functioned as the Tashkent Electrotechnical Institute of Communications (TEIC) until 2002, and from 2002 to 2017 under the name Tashkent University of Information Technologies. Established in 1955 as TEIC, today the university is the main higher educational institution preparing highly qualified specialists in the field of information and communication technologies.",
+    "counters": [
+      { "end": 14050, "label": "Bachelors" },
+      { "end": 238, "label": "Masters" },
+      { "end": 337, "label": "Doctorates" }
+    ],
+    "readmore": "Read more"
+  }
+  

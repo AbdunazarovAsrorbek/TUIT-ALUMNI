@@ -1,0 +1,24 @@
+{
+    "uz": {
+      "title": "Sahifa topilmadi",
+      "text": "Siz qidirayotgan sahifa topilmadi.",
+      "home": "Bosh sahifa",
+      "back": "Orqaga qaytish",
+      "contact": "Biz bilan bog'lanish"
+    },
+    "ru": {
+      "title": "Страница не найдена",
+      "text": "Страница, которую вы ищете, не найдена.",
+      "home": "Главная",
+      "back": "Вернуться назад",
+      "contact": "Связаться с нами"
+    },
+    "en": {
+      "title": "Page Not Found",
+      "text": "The page you are looking for was not found.",
+      "home": "Home",
+      "back": "Go Back",
+      "contact": "Contact Us"
+    }
+  }
+  

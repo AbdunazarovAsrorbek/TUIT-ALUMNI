@@ -1,0 +1,71 @@
+{
+    "uz": [
+        {
+            "id": "1",
+            "uniqClass": "box-icon box1",
+            "boxIcon": "flaticon-thumbs-like",
+            "title": "Tadbirlar",
+            "subTitle": "O’tkaziladigan tadbirlar yordamida loyihalar uchun bitiruvchilar jalb etiladi."
+        },
+        {
+            "id": "2",
+            "uniqClass": "box-icon box2",
+            "boxIcon": "flaticon-reading",
+            "title": "Bitiruvchilarning qoniqishi",
+            "subTitle": "TATU bitiruvchilarining 89,4 foizi o’qishdan qoniqish hosil qiladi."
+        },
+        {
+            "id": "3",
+            "uniqClass": "box-icon box3",
+            "boxIcon": "flaticon-teacher",
+            "title": "Loyihalar",
+            "subTitle": "TATU talabalari va bitiruvchilari bilan doimiy turli xil loyihalar amalga oshiriladi."
+        }
+    ],
+    "ru": [
+        {
+            "id": "1",
+            "uniqClass": "box-icon box1",
+            "boxIcon": "flaticon-thumbs-like",
+            "title": "Мероприятия",
+            "subTitle": "С помощью проводимых мероприятий привлекаются выпускники для проектов."
+        },
+        {
+            "id": "2",
+            "uniqClass": "box-icon box2",
+            "boxIcon": "flaticon-reading",
+            "title": "Удовлетворенность выпускников",
+            "subTitle": "89,4% выпускников TATU довольны учебой."
+        },
+        {
+            "id": "3",
+            "uniqClass": "box-icon box3",
+            "boxIcon": "flaticon-teacher",
+            "title": "Проекты",
+            "subTitle": "Постоянно реализуются различные проекты с участием студентов и выпускников TATU."
+        }
+    ],
+    "en": [
+        {
+            "id": "1",
+            "uniqClass": "box-icon box1",
+            "boxIcon": "flaticon-thumbs-like",
+            "title": "Events",
+            "subTitle": "Graduates are involved in projects through the events held."
+        },
+        {
+            "id": "2",
+            "uniqClass": "box-icon box2",
+            "boxIcon": "flaticon-reading",
+            "title": "Graduate Satisfaction",
+            "subTitle": "89.4% of TATU graduates are satisfied with their studies."
+        },
+        {
+            "id": "3",
+            "uniqClass": "box-icon box3",
+            "boxIcon": "flaticon-teacher",
+            "title": "Projects",
+            "subTitle": "Various projects are constantly implemented with TATU students and graduates."
+        }
+    ]
+}

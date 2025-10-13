@@ -1,0 +1,30 @@
+{
+    "uz": {
+      "personal_info": "Shaxsiy ma'lumotlar",
+      "friends": "Do'stlarim",
+      "messages": "Xabarlar",
+      "certificate": "Sertifikat",
+      "graduates": "Bitiruvchilar",
+      "notifications": "Bildirishnomalar",
+      "logout": "Tizimdan chiqish"
+    },
+    "ru": {
+      "personal_info": "Личные данные",
+      "friends": "Мои друзья",
+      "messages": "Сообщения",
+      "certificate": "Сертификат",
+      "graduates": "Выпускники",
+      "notifications": "Уведомления",
+      "logout": "Выйти из системы"
+    },
+    "en": {
+      "personal_info": "Personal Info",
+      "friends": "Friends",
+      "messages": "Messages",
+      "certificate": "Certificate",
+      "graduates": "Graduates",
+      "notifications": "Notifications",
+      "logout": "Logout"
+    }
+  }
+  

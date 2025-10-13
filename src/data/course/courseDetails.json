@@ -1,0 +1,30 @@
+{
+    "uz": {
+      "breadcrumb": "Email tasdiqlash",
+      "title": "E-pochta tasdiqlash",
+      "desc": "E-pochtani tasdiqlash orqali siz Muhammad al-Xorazmiy nomidagi Toshkent Axborot Texnologiyalari Universiteti bitiruvchilar uyushmasi veb-sayti (alumni.tuit.uz) profilingizga kirishingiz mumkin.",
+      "button": "Tasdiqlash",
+      "success": "Tasdiqlash muvaffaqiyatli yakunlandi!",
+      "error": "Tasdiqlashda xatolik yuz berdi.",
+      "notFound": "Token topilmadi."
+    },
+    "ru": {
+      "breadcrumb": "Подтверждение Email",
+      "title": "Подтверждение электронной почты",
+      "desc": "Подтвердив электронную почту, вы сможете войти в свой профиль на сайте Ассоциации выпускников Ташкентского университета информационных технологий имени Мухаммада аль-Хорезми (alumni.tuit.uz).",
+      "button": "Подтвердить",
+      "success": "Подтверждение успешно завершено!",
+      "error": "Произошла ошибка при подтверждении.",
+      "notFound": "Токен не найден."
+    },
+    "en": {
+      "breadcrumb": "Email Verification",
+      "title": "Verify Email",
+      "desc": "By verifying your email, you can access your profile on the website of the Alumni Association of Tashkent University of Information Technologies named after Muhammad al-Khwarizmi (alumni.tuit.uz).",
+      "button": "Verify",
+      "success": "Verification completed successfully!",
+      "error": "An error occurred during verification.",
+      "notFound": "Token not found."
+    }
+  }
+  

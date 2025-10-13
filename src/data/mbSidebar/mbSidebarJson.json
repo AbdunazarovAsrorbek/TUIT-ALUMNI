@@ -1,0 +1,84 @@
+{
+    "uz": {
+      "topbar_phone": "+998 71 238 64 89",
+      "language": {
+        "uz": "O'zbekcha",
+        "ru": "Русский",
+        "en": "English"
+      },
+      "login": "Kirish",
+      "register": "A'zo bo'lish",
+      "user_profile": "Shaxsiy ma'lumotlar",
+      "messages": "Xabarlar",
+      "notifications": "Bildirishnomalar",
+      "certificate": "Sertifikat",
+      "logout": "Chiqish",
+      "menu": {
+        "home": "Bosh sahifa",
+        "about": "Biz haqimizda",
+        "regulation": "Nizom",
+        "news": "Yangiliklar",
+        "events": "Tadbirlar",
+        "graduates": "Bitiruvchilar",
+        "graduates_club": "Bitiruvchilar klubi",
+        "vacancy": "Vakansiya",
+        "media": "Media"
+      },
+      "bitiruvchilar_expand": "Bitiruvchilar"
+    },
+    "ru": {
+      "topbar_phone": "+998 71 238 64 89",
+      "language": {
+        "uz": "O'zbekcha",
+        "ru": "Русский",
+        "en": "English"
+      },
+      "login": "Вход",
+      "register": "Регистрация",
+      "user_profile": "Личные данные",
+      "messages": "Сообщения",
+      "notifications": "Уведомления",
+      "certificate": "Сертификат",
+      "logout": "Выход",
+      "menu": {
+        "home": "Главная",
+        "about": "О нас",
+        "regulation": "Регламент",
+        "news": "Новости",
+        "events": "События",
+        "graduates": "Выпускники",
+        "graduates_club": "Клуб выпускников",
+        "vacancy": "Вакансии",
+        "media": "Медиа"
+      },
+      "bitiruvchilar_expand": "Выпускники"
+    },
+    "en": {
+      "topbar_phone": "+998 71 238 64 89",
+      "language": {
+        "uz": "O'zbekcha",
+        "ru": "Русский",
+        "en": "English"
+      },
+      "login": "Login",
+      "register": "Register",
+      "user_profile": "Personal Info",
+      "messages": "Messages",
+      "notifications": "Notifications",
+      "certificate": "Certificate",
+      "logout": "Logout",
+      "menu": {
+        "home": "Home",
+        "about": "About Us",
+        "regulation": "Regulation",
+        "news": "News",
+        "events": "Events",
+        "graduates": "Graduates",
+        "graduates_club": "Graduates Club",
+        "vacancy": "Vacancy",
+        "media": "Media"
+      },
+      "bitiruvchilar_expand": "Graduates"
+    }
+  }
+  

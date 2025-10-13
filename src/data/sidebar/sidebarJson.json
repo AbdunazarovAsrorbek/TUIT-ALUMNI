@@ -1,0 +1,29 @@
+{
+  "uz": {
+    "latest_news": "So'ngi yangiliklar",
+    "gallery": "Galereya",
+    "contact": "Bog'lanish",
+    "address": "Amir Temur shox ko‘chasi 108 uy",
+    "phone": "+998 71 238 64 15",
+    "email": "info@tuit.uz",
+    "logo_text": "Muhammad al-Xorazmiy nomidagi Toshkent Axborot Texnologiyalari Universiteti"
+  },
+  "ru": {
+    "latest_news": "Последние новости",
+    "gallery": "Галерея",
+    "contact": "Контакты",
+    "address": "Улица Амир Темур шох, дом 108",
+    "phone": "+998 71 238 64 15",
+    "email": "info@tuit.uz",
+    "logo_text": "Мухаммад аль-Хорезмий Ташкентский Университет Информационных Технологий"
+  },
+  "en": {
+    "latest_news": "Latest News",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "address": "Amir Temur shox street, 108",
+    "phone": "+998 71 238 64 15",
+    "email": "info@tuit.uz",
+    "logo_text": "Muhammad al-Khwarizmi Tashkent University of Information Technologies"
+  }
+}

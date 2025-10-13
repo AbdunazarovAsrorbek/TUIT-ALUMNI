@@ -1,0 +1,149 @@
+{
+  "uz": {
+    "universityName": {
+      "text": "Muhammad al-Xorazmiy nomidagi Toshkent Axborot Texnologiyalari Universiteti"
+    },
+    "topBar": {
+      "address": "Amir Temur shox ko‘chasi 108 uy",
+      "contacts": {
+        "phoneLabel": "Bog'lanish",
+        "phone": "+998 71 238 64 89",
+        "emailLabel": "E-mail",
+        "email": "info@tuit.uz"
+      },
+      "socials": {
+        "telegram": "https://t.me/tuituz_official",
+        "youtube": "https://www.youtube.com/channel/UC0aN4MLNCjMAyvUOgGXzBSA",
+        "instagram": "https://www.instagram.com/tuit.official/?r=nametag",
+        "facebook": "https://www.facebook.com/TUIT1955"
+      },
+      "login": "Log In",
+      "register": "Register",
+      "apply": "A'zo bo'lish"
+    },
+    "navbar": {
+      "home": "Bosh sahifa",
+      "about": "Biz haqimizda",
+      "regulation": "Nizom",
+      "news": "Yangiliklar",
+      "events": "Tadbirlar",
+      "graduates": "Bitiruvchilar",
+      "graduatesDropdown": {
+        "graduatesList": "Bitiruvchilar",
+        "alumniClub": "Bitiruvchilar klubi",
+        "vacancy": "Vakansiya"
+      },
+      "media": "Media"
+    },
+    "userMenu": {
+      "personal": "Shaxsiy ma'lumotlar",
+      "messages": "Xabarlar",
+      "notifications": "Bildirishnomalar",
+      "certificate": "Sertifikat",
+      "logout": "Chiqish"
+    },
+    "languages": {
+      "uz": "O'zbekcha",
+      "ru": "Русский",
+      "en": "English"
+    }
+  },
+  "ru": {
+    "universityName": {
+      "text": "Ташкентский университет информационных технологий имени Мухаммада аль-Хорезми"
+    },
+    "topBar": {
+      "address": "улица Амир Темура, дом 108",
+      "contacts": {
+        "phoneLabel": "Контакт",
+        "phone": "+998 71 238 64 89",
+        "emailLabel": "E-mail",
+        "email": "info@tuit.uz"
+      },
+      "socials": {
+        "telegram": "https://t.me/tuituz_official",
+        "youtube": "https://www.youtube.com/channel/UC0aN4MLNCjMAyvUOgGXzBSA",
+        "instagram": "https://www.instagram.com/tuit.official/?r=nametag",
+        "facebook": "https://www.facebook.com/TUIT1955"
+      },
+      "login": "Войти",
+      "register": "Регистрация",
+      "apply": "Стать участником"
+    },
+    "navbar": {
+      "home": "Главная",
+      "about": "О нас",
+      "regulation": "Регламент",
+      "news": "Новости",
+      "events": "Мероприятия",
+      "graduates": "Выпускники",
+      "graduatesDropdown": {
+        "graduatesList": "Выпускники",
+        "alumniClub": "Клуб выпускников",
+        "vacancy": "Вакансии"
+      },
+      "media": "Медиа"
+    },
+    "userMenu": {
+      "personal": "Личные данные",
+      "messages": "Сообщения",
+      "notifications": "Уведомления",
+      "certificate": "Сертификат",
+      "logout": "Выйти"
+    },
+    "languages": {
+      "uz": "O'zbekcha",
+      "ru": "Русский",
+      "en": "English"
+    }
+  },
+  "en": {
+    "universityName": {
+      "text": "Tashkent University of Information Technologies named after Muhammad al-Khwarizmi"
+    },
+    "topBar": {
+      "address": "Amir Temur Street, 108",
+      "contacts": {
+        "phoneLabel": "Contact",
+        "phone": "+998 71 238 64 89",
+        "emailLabel": "E-mail",
+        "email": "info@tuit.uz"
+      },
+      "socials": {
+        "telegram": "https://t.me/tuituz_official",
+        "youtube": "https://www.youtube.com/channel/UC0aN4MLNCjMAyvUOgGXzBSA",
+        "instagram": "https://www.instagram.com/tuit.official/?r=nametag",
+        "facebook": "https://www.facebook.com/TUIT1955"
+      },
+      "login": "Log In",
+      "register": "Register",
+      "apply": "Join"
+    },
+    "navbar": {
+      "home": "Home",
+      "about": "About Us",
+      "regulation": "Regulation",
+      "news": "News",
+      "events": "Events",
+      "graduates": "Graduates",
+      "graduatesDropdown": {
+        "graduatesList": "Graduates",
+        "alumniClub": "Alumni Club",
+        "vacancy": "Vacancy"
+      },
+      "media": "Media"
+    },
+    "userMenu": {
+      "personal": "Personal Info",
+      "messages": "Messages",
+      "notifications": "Notifications",
+      "certificate": "Certificate",
+      "logout": "Log Out"
+    },
+    "languages": {
+      "uz": "O'zbekcha",
+      "ru": "Русский",
+      "en": "English"
+    }
+  }
+}

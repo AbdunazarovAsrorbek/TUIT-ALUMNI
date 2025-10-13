@@ -1,0 +1,20 @@
+{
+  "uz": {
+    "title": "Vakansiya",
+    "company": "Kompaniya",
+    "salary": "Maosh",
+    "details": "Batafsil"
+  },
+  "ru": {
+    "title": "Вакансия",
+    "company": "Компания",
+    "salary": "Зарплата",
+    "details": "Подробнее"
+  },
+  "en": {
+    "title": "Vacancy",
+    "company": "Company",
+    "salary": "Salary",
+    "details": "Details"
+  }
+}

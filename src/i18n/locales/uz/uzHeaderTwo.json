@@ -1,0 +1,37 @@
+{
+    "header": {
+      "phone": "+998 71 238 64 89",
+      "email": "info@tuit.uz",
+      "address": "Amir Temur shox ko‘chasi 108 uy",
+  
+      "languages": {
+        "uz": "O'zbekcha",
+        "ru": "Русский",
+        "en": "English"
+      },
+  
+      "university": "Muhammad al-Xorazmiy nomidagi Toshkent Axborot Texnologiyalari Universiteti",
+  
+      "menu": {
+        "home": "Bosh sahifa",
+        "regulation": "Nizom",
+        "news": "Yangiliklar",
+        "events": "Tadbirlar",
+        "graduates": "Bitiruvchilar",
+        "graduates_list": "Bitiruvchilar",
+        "graduates_association": "Bitiruvchilar klubi",
+        "vacancy": "Vakansiya",
+        "media": "Media"
+      },
+  
+      "auth": {
+        "join": "A'zo bo'lish",
+        "profile": "Shaxsiy ma'lumotlar",
+        "messages": "Xabarlar",
+        "notifications": "Bildirishnomalar",
+        "certificate": "Sertifikat",
+        "logout": "Chiqish"
+      }
+    }
+  }
+  

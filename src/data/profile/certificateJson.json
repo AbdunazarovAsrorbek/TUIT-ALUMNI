@@ -1,0 +1,21 @@
+{
+    "uz": {
+      "certificate_title": "Sertifikat:",
+      "view_download": "Sertifikatni ko‘rish / yuklab olish",
+      "not_found": "Sertifikat topilmadi",
+      "loading": "Yuklanmoqda..."
+    },
+    "ru": {
+      "certificate_title": "Сертификат:",
+      "view_download": "Просмотр / скачать сертификат",
+      "not_found": "Сертификат не найден",
+      "loading": "Загрузка..."
+    },
+    "en": {
+      "certificate_title": "Certificate:",
+      "view_download": "View / Download Certificate",
+      "not_found": "Certificate not found",
+      "loading": "Loading..."
+    }
+  }
+  

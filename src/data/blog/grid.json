@@ -1,0 +1,219 @@
+{
+    "uz": {
+      "title": "Bitiruvchilar klubi",
+      "appeal": "Bitiruvchilarga Murojaat",
+      "posts": [
+        {
+          "id": "1",
+          "postImg": "blog_c-02.jpg",
+          "authorImg": "author.jpg",
+          "authorName": "Medison Azar",
+          "postLink": "/blog-details",
+          "postDate": "April 23, 2020",
+          "postTitle": "Aloqa va Birlashuv",
+          "postDesc": "Bitiruvchilar klubi, o’z a’zolari orasida aloqa va birlashuvni kuchaytirish, do’stlar, hamkasblar va professorlar bilan aloqalarini o’zlashtirishga yordam bera oladi.",
+          "authorLink": "/"
+        },
+        {
+          "id": "2",
+          "postImg": "blog_c-03.jpg",
+          "authorImg": "author.jpg",
+          "authorName": "Medison Azar",
+          "postLink": "/blog-details",
+          "postDate": "April 23, 2020",
+          "postTitle": "Kasbiy rivojlanish",
+          "postDesc": "Klub bitiruvchilar uchun kasbiy rivojlanish va o’z sohasidagi yangiliklar bilan o’rganish uchun xizmatlar ko’rsatishadi.",
+          "authorLink": "/"
+        },
+        {
+          "id": "3",
+          "postImg": "blog_c-05.jpg",
+          "authorImg": "author.jpg",
+          "authorName": "Medison Azar",
+          "postLink": "/blog-details",
+          "postDate": "April 23, 2020",
+          "postTitle": "Karyera tashkil etish",
+          "postDesc": "Klub bitiruvchilarga kasbiy yutuqlarni oshirishda yordam beradi. Ular ishga kirish, yangi vakansiyalardan habar olish va karyera bo’yicha maslahatlar berishadi.",
+          "authorLink": "/"
+        },
+        {
+          "id": "4",
+          "postImg": "blog_c-06.jpg",
+          "authorImg": "author.jpg",
+          "authorName": "Medison Azar",
+          "postLink": "/blog-details",
+          "postDate": "April 23, 2020",
+          "postTitle": "Universitetni qo’llab quvvatlash",
+          "postDesc": "Klublar o’z universitetlarini moliyalashtirish, unda faol bo’lish va o’z a’zolari orasida qo’shni-sonli sohalar bo’yicha loyihalarni amalga oshirishda qo’llaniladi.",
+          "authorLink": "/"
+        },
+        {
+          "id": "5",
+          "postImg": "blog_c-07.jpg",
+          "authorImg": "author.jpg",
+          "authorName": "Medison Azar",
+          "postLink": "/blog-details",
+          "postDate": "April 23, 2020",
+          "postTitle": "Tadbirlar va Tanlovlar",
+          "postDesc": "Bitiruvchilar klubi o’z a’zolari uchun tadbirlar, davra tanlovlar va jamiyatga yo’naltirilgan foydali faoliyatlar tashkil etishadi.",
+          "authorLink": "/"
+        },
+        {
+          "id": "6",
+          "postImg": "blog_c-08.jpg",
+          "authorImg": "author.jpg",
+          "authorName": "Medison Azar",
+          "postLink": "/blog-details",
+          "postDate": "April 23, 2020",
+          "postTitle": "Xayriya va Sponsorlik",
+          "postDesc": "Klubl xayriya sohalari uchun moliya jo’natish, talabalar uchun kurslar tashkil etish va universitetga sponsorlik ko’rsatish uchun faoliyat ko’rsatishadi.",
+          "authorLink": "/"
+        }
+      ]
+    },
+    "ru": {
+      "title": "Клуб выпускников",
+      "appeal": "Обращение к выпускникам",
+      "posts": [
+        {
+          "id": "1",
+          "postImg": "blog_c-02.jpg",
+          "authorImg": "author.jpg",
+          "authorName": "Мэдисон Азар",
+          "postLink": "/blog-details",
+          "postDate": "23 Апреля, 2020",
+          "postTitle": "Связь и объединение",
+          "postDesc": "Клуб выпускников помогает укреплять связи и единство среди своих членов, поддерживая контакты с друзьями, коллегами и преподавателями.",
+          "authorLink": "/"
+        },
+        {
+          "id": "2",
+          "postImg": "blog_c-03.jpg",
+          "authorImg": "author.jpg",
+          "authorName": "Мэдисон Азар",
+          "postLink": "/blog-details",
+          "postDate": "23 Апреля, 2020",
+          "postTitle": "Профессиональное развитие",
+          "postDesc": "Клуб предоставляет выпускникам возможности для профессионального роста и изучения новинок в своей области.",
+          "authorLink": "/"
+        },
+        {
+          "id": "3",
+          "postImg": "blog_c-05.jpg",
+          "authorImg": "author.jpg",
+          "authorName": "Мэдисон Азар",
+          "postLink": "/blog-details",
+          "postDate": "23 Апреля, 2020",
+          "postTitle": "Построение карьеры",
+          "postDesc": "Клуб помогает выпускникам повышать профессиональные достижения, находить работу, узнавать о новых вакансиях и получать карьерные советы.",
+          "authorLink": "/"
+        },
+        {
+          "id": "4",
+          "postImg": "blog_c-06.jpg",
+          "authorImg": "author.jpg",
+          "authorName": "Мэдисон Азар",
+          "postLink": "/blog-details",
+          "postDate": "23 Апреля, 2020",
+          "postTitle": "Поддержка университета",
+          "postDesc": "Клубы помогают финансировать университет, активно участвовать в его жизни и реализовывать проекты среди своих членов.",
+          "authorLink": "/"
+        },
+        {
+          "id": "5",
+          "postImg": "blog_c-07.jpg",
+          "authorImg": "author.jpg",
+          "authorName": "Мэдисон Азар",
+          "postLink": "/blog-details",
+          "postDate": "23 Апреля, 2020",
+          "postTitle": "Мероприятия и конкурсы",
+          "postDesc": "Клуб выпускников организует мероприятия, конкурсы и полезные общественные активности для своих членов.",
+          "authorLink": "/"
+        },
+        {
+          "id": "6",
+          "postImg": "blog_c-08.jpg",
+          "authorImg": "author.jpg",
+          "authorName": "Мэдисон Азар",
+          "postLink": "/blog-details",
+          "postDate": "23 Апреля, 2020",
+          "postTitle": "Благотворительность и спонсорство",
+          "postDesc": "Клубы направляют средства на благотворительность, организуют курсы для студентов и оказывают спонсорскую поддержку университету.",
+          "authorLink": "/"
+        }
+      ]
+    },
+    "en": {
+      "title": "Alumni Club",
+      "appeal": "Message to Alumni",
+      "posts": [
+        {
+          "id": "1",
+          "postImg": "blog_c-02.jpg",
+          "authorImg": "author.jpg",
+          "authorName": "Medison Azar",
+          "postLink": "/blog-details",
+          "postDate": "April 23, 2020",
+          "postTitle": "Connection and Unity",
+          "postDesc": "The alumni club helps strengthen connections and unity among its members, fostering relationships with friends, colleagues, and professors.",
+          "authorLink": "/"
+        },
+        {
+          "id": "2",
+          "postImg": "blog_c-03.jpg",
+          "authorImg": "author.jpg",
+          "authorName": "Medison Azar",
+          "postLink": "/blog-details",
+          "postDate": "April 23, 2020",
+          "postTitle": "Professional Development",
+          "postDesc": "The club offers services for alumni to develop professionally and stay updated in their fields.",
+          "authorLink": "/"
+        },
+        {
+          "id": "3",
+          "postImg": "blog_c-05.jpg",
+          "authorImg": "author.jpg",
+          "authorName": "Medison Azar",
+          "postLink": "/blog-details",
+          "postDate": "April 23, 2020",
+          "postTitle": "Career Building",
+          "postDesc": "The club helps alumni enhance their professional achievements, find jobs, discover new vacancies, and receive career advice.",
+          "authorLink": "/"
+        },
+        {
+          "id": "4",
+          "postImg": "blog_c-06.jpg",
+          "authorImg": "author.jpg",
+          "authorName": "Medison Azar",
+          "postLink": "/blog-details",
+          "postDate": "April 23, 2020",
+          "postTitle": "Supporting the University",
+          "postDesc": "Clubs support their universities by providing funding, being active participants, and carrying out projects among their members.",
+          "authorLink": "/"
+        },
+        {
+          "id": "5",
+          "postImg": "blog_c-07.jpg",
+          "authorImg": "author.jpg",
+          "authorName": "Medison Azar",
+          "postLink": "/blog-details",
+          "postDate": "April 23, 2020",
+          "postTitle": "Events and Competitions",
+          "postDesc": "The alumni club organizes events, competitions, and community-oriented activities for its members.",
+          "authorLink": "/"
+        },
+        {
+          "id": "6",
+          "postImg": "blog_c-08.jpg",
+          "authorImg": "author.jpg",
+          "authorName": "Medison Azar",
+          "postLink": "/blog-details",
+          "postDate": "April 23, 2020",
+          "postTitle": "Charity and Sponsorship",
+          "postDesc": "Clubs allocate funds for charity, organize courses for students, and provide sponsorship to the university.",
+          "authorLink": "/"
+        }
+      ]
+    }
+  }
+  

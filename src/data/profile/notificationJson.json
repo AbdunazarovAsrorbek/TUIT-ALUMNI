@@ -1,0 +1,30 @@
+{
+    "uz": {
+      "notification_title": "Bildirishnomalar:",
+      "status_pending": "Kutilmoqda",
+      "status_accepted": "Qabul qilingan",
+      "status_rejected": "Rad etilgan",
+      "button_reject": "Rad etish",
+      "button_accept": "Qabul qilish",
+      "no_data": "Ma'lumot topilmadi."
+    },
+    "ru": {
+      "notification_title": "Уведомления:",
+      "status_pending": "В ожидании",
+      "status_accepted": "Принято",
+      "status_rejected": "Отклонено",
+      "button_reject": "Отклонить",
+      "button_accept": "Принять",
+      "no_data": "Данные не найдены."
+    },
+    "en": {
+      "notification_title": "Notifications:",
+      "status_pending": "Pending",
+      "status_accepted": "Accepted",
+      "status_rejected": "Rejected",
+      "button_reject": "Reject",
+      "button_accept": "Accept",
+      "no_data": "No data found."
+    }
+  }
+  

@@ -1,0 +1,32 @@
+{
+  "uz": {
+    "friends_title": "Do'stlarim:",
+    "search_placeholder": "Qidiruv...",
+    "view": "Ko'rish",
+    "chat": "Chat",
+    "close": "Yopish",
+    "no_data": "Ma'lumot topilmadi.",
+    "workplace": "Ish joyi:",
+    "position": "Lavozimi:"
+  },
+  "ru": {
+    "friends_title": "Мои друзья:",
+    "search_placeholder": "Поиск...",
+    "view": "Просмотр",
+    "chat": "Чат",
+    "close": "Закрыть",
+    "no_data": "Данные не найдены.",
+    "workplace": "Место работы:",
+    "position": "Должность:"
+  },
+  "en": {
+    "friends_title": "My Friends:",
+    "search_placeholder": "Search...",
+    "view": "View",
+    "chat": "Chat",
+    "close": "Close",
+    "no_data": "No data found.",
+    "workplace": "Workplace:",
+    "position": "Position:"
+  }
+}

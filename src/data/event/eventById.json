@@ -1,0 +1,20 @@
+{
+    "uz": {
+      "breadcrumb": "Batafsil",
+      "noTitle": "Sarlavha mavjud emas",
+      "noData": "Ma'lumot topilmadi.",
+      "imageAlt": "Tadbir rasmi"
+    },
+    "ru": {
+      "breadcrumb": "Подробнее",
+      "noTitle": "Заголовок отсутствует",
+      "noData": "Данные не найдены.",
+      "imageAlt": "Изображение события"
+    },
+    "en": {
+      "breadcrumb": "Details",
+      "noTitle": "Title not available",
+      "noData": "No data found.",
+      "imageAlt": "Event image"
+    }
+  }

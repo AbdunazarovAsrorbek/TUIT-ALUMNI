@@ -1,0 +1,30 @@
+{
+    "uz": {
+      "graduates_title": "Bitiruvchilar:",
+      "search_placeholder": "Qidiruv...",
+      "connection": "Connection",
+      "sent_pending": "Siz yubordingiz",
+      "received_pending": "Tasdiqlashingizni kutyabdi",
+      "connected": "Bog‘langan",
+      "no_data": "Ma'lumot topilmadi."
+    },
+    "ru": {
+      "graduates_title": "Выпускники:",
+      "search_placeholder": "Поиск...",
+      "connection": "Соединение",
+      "sent_pending": "Вы отправили",
+      "received_pending": "Ожидает подтверждения",
+      "connected": "Связано",
+      "no_data": "Данные не найдены."
+    },
+    "en": {
+      "graduates_title": "Graduates:",
+      "search_placeholder": "Search...",
+      "connection": "Connection",
+      "sent_pending": "You sent",
+      "received_pending": "Waiting for approval",
+      "connected": "Connected",
+      "no_data": "No data found."
+    }
+  }
+  

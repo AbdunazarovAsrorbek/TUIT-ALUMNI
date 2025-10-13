@@ -1,0 +1,17 @@
+{
+    "uz": {
+      "breadcrumb": "Batafsil",
+      "noData": "Ma'lumot topilmadi.",
+      "imageAlt": "Yangilik rasmi"
+    },
+    "ru": {
+      "breadcrumb": "Подробнее",
+      "noData": "Данные не найдены.",
+      "imageAlt": "Изображение новости"
+    },
+    "en": {
+      "breadcrumb": "Details",
+      "noData": "No data found.",
+      "imageAlt": "News image"
+    }
+  }

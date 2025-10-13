@@ -1,0 +1,43 @@
+{
+    "footer": {
+      "description": "Официальный сайт «Клуба выпускников» Ташкентского университета информационных технологий имени Мухаммада аль-Хоразмий.",
+      
+      "useful_links_title": "Полезные ссылки",
+      "useful_links": {
+        "tuit": "tuit.uz",
+        "admission": "admission.tuit.uz",
+        "anniversary": "70.tuit.uz",
+        "library": "Цифровая библиотека",
+        "management": "Руководство"
+      },
+  
+      "quick_links_title": "Быстрые ссылки",
+      "quick_links": {
+        "regulation": "Устав",
+        "news": "Новости",
+        "events": "Мероприятия",
+        "graduates": "Выпускники",
+        "graduates_association": "Клуб выпускников"
+      },
+  
+      "contact_title": "Контакты",
+      "contact": {
+        "address": "Ташкент 100084, проспект Амира Темура, дом 108",
+        "email": "info@tuit.uz",
+        "phone": "+998 71 238 64 15"
+      },
+  
+      "copyright": {
+        "text": "Copyright © 2025 | Разработано",
+        "author": "TUIT RIRM"
+      },
+  
+      "social": {
+        "telegram": "Телеграм",
+        "youtube": "Ютуб",
+        "instagram": "Инстаграм",
+        "facebook": "Фейсбук"
+      }
+    }
+  }
+  

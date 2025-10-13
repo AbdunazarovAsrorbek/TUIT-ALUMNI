@@ -1,0 +1,18 @@
+{
+    "uz": {
+      "messages_title": "Xabarlar:",
+      "search_placeholder": "Qidiruv...",
+      "no_data": "Ma'lumot topilmadi."
+    },
+    "ru": {
+      "messages_title": "Сообщения:",
+      "search_placeholder": "Поиск...",
+      "no_data": "Данные не найдены."
+    },
+    "en": {
+      "messages_title": "Messages:",
+      "search_placeholder": "Search...",
+      "no_data": "No data found."
+    }
+  }
+  

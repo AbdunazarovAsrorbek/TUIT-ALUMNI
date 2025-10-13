@@ -1,0 +1,43 @@
+{
+    "footer": {
+      "description": "Muhammad al-Xorazmiy nomidagi Toshkent Axborot Texnologiyalari Universitetining \"Bitiruvchilar klubi\" rasmiy veb sayti.",
+      
+      "useful_links_title": "Foydali havolalar",
+      "useful_links": {
+        "tuit": "tuit.uz",
+        "admission": "admission.tuit.uz",
+        "anniversary": "70.tuit.uz",
+        "library": "Raqamli kutubxona",
+        "management": "Rahbariyat"
+      },
+  
+      "quick_links_title": "Tezkor havolalar",
+      "quick_links": {
+        "regulation": "Nizom",
+        "news": "Yangiliklar",
+        "events": "Tadbirlar",
+        "graduates": "Bitiruvchilar",
+        "graduates_association": "Bitiruvchilar klubi"
+      },
+  
+      "contact_title": "Bog'lanish",
+      "contact": {
+        "address": "Toshkent 100084, Amir Temur shox ko‘chasi 108 uy",
+        "email": "info@tuit.uz",
+        "phone": "+998 71 238 64 15"
+      },
+  
+      "copyright": {
+        "text": "Copyright © 2025 | Develop by",
+        "author": "TUIT RIRM"
+      },
+  
+      "social": {
+        "telegram": "Telegram",
+        "youtube": "YouTube",
+        "instagram": "Instagram",
+        "facebook": "Facebook"
+      }
+    }
+  }
+  

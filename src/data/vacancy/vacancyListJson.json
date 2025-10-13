@@ -1,0 +1,27 @@
+{
+    "uz": {
+      "breadcrumb": "Batafsil",
+      "no_data": "Ma'lumot topilmadi.",
+      "vacancy_image_alt": "Vakansiya rasmi",
+      "date_icon": "Sana",
+      "company_icon": "Kompaniya",
+      "salary_icon": "Maosh"
+    },
+    "ru": {
+      "breadcrumb": "Подробнее",
+      "no_data": "Информация не найдена.",
+      "vacancy_image_alt": "Изображение вакансии",
+      "date_icon": "Дата",
+      "company_icon": "Компания",
+      "salary_icon": "Зарплата"
+    },
+    "en": {
+      "breadcrumb": "Details",
+      "no_data": "No data found.",
+      "vacancy_image_alt": "Vacancy image",
+      "date_icon": "Date",
+      "company_icon": "Company",
+      "salary_icon": "Salary"
+    }
+  }
+  

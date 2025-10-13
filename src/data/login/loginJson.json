@@ -1,0 +1,45 @@
+{
+    "uz": {
+      "title": "Kirish",
+      "username_label": "Foydalanuvchi nomi",
+      "username_placeholder": "Username",
+      "password_label": "Parol",
+      "password_placeholder": "*******",
+      "save_password": "Parolni saqlash",
+      "forget_password": "Parolni unutdingizmi?",
+      "no_account": "Ro'yhatdan o'tmaganmisiz ?",
+      "register": "Ro'yhatdan o'tish",
+      "submit": "Kirish",
+      "user_error": "Foydalanuvchi nomi bo'sh bo'lishi mumkin emas",
+      "password_error": "Parol bo'sh bo'lishi mumkin emas"
+    },
+    "ru": {
+      "title": "Вход",
+      "username_label": "Имя пользователя",
+      "username_placeholder": "Имя пользователя",
+      "password_label": "Пароль",
+      "password_placeholder": "*******",
+      "save_password": "Сохранить пароль",
+      "forget_password": "Забыли пароль?",
+      "no_account": "Нет аккаунта?",
+      "register": "Зарегистрироваться",
+      "submit": "Войти",
+      "user_error": "Имя пользователя не может быть пустым",
+      "password_error": "Пароль не может быть пустым"
+    },
+    "en": {
+      "title": "Login",
+      "username_label": "User Name",
+      "username_placeholder": "Username",
+      "password_label": "Password",
+      "password_placeholder": "*******",
+      "save_password": "Save Password",
+      "forget_password": "Forget Password?",
+      "no_account": "Don't have an account?",
+      "register": "Register",
+      "submit": "Login",
+      "user_error": "User can't be blank",
+      "password_error": "Password can't be blank"
+    }
+  }
+  

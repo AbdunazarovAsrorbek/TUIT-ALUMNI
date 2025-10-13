@@ -1,0 +1,37 @@
+{
+    "header": {
+      "phone": "+998 71 238 64 89",
+      "email": "info@tuit.uz",
+      "address": "ул. Амира Темура, дом 108",
+    
+      "languages": {
+        "uz": "O'zbekcha",
+        "ru": "Русский",
+        "en": "English"
+      },
+    
+      "university": "Ташкентский университет информационных технологий имени Мухаммада ал-Хоразмий",
+    
+      "menu": {
+        "home": "Главная",
+        "regulation": "Устав",
+        "news": "Новости",
+        "events": "Мероприятия",
+        "graduates": "Выпускники",
+        "graduates_list": "Список выпускников",
+        "graduates_association": "Клуб выпускников",
+        "vacancy": "Вакансии",
+        "media": "Медиа"
+      },
+    
+      "auth": {
+        "join": "Присоединиться",
+        "profile": "Личный кабинет",
+        "messages": "Сообщения",
+        "notifications": "Уведомления",
+        "certificate": "Сертификат",
+        "logout": "Выйти"
+      }
+    }
+  }
+  
