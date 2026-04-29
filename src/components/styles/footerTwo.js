@@ -318,6 +318,7 @@ export const Styles = styled.div`
         }
 
         a {
+        padding-left: 5px;
           color: ${colors.green};
 
           &:hover {

@@ -53,7 +53,7 @@ const Header = ({ lang }) => {
                 <Container>
                     <Row>
                         <Col lg="6" md="5">
-                            <div className="bar-left">
+                            <div className="bar-left d-flex align-items-center">
                                 <ul className="list-unstyled list-inline">
                                     <li className="list-inline-item">
                                         <i className="las la-map-marker"></i> {t.topBar.address}
@@ -62,8 +62,8 @@ const Header = ({ lang }) => {
                             </div>
                         </Col>
                         <Col lg="6" md="7">
-                            <div className="bar-right d-flex justify-content-end">
-                                <ul className="list-unstyled list-inline bar-social">
+                            <div className="bar-right d-flex justify-content-end align-items-center">
+                                <ul className="list-unstyled list-inline bar-social d-flex align-items-center m-0">
                                     <li className="list-inline-item">
                                         <a href={t.topBar.socials.telegram} target="_blank" rel="noopener noreferrer">
                                             <i className="fab fa-telegram"></i>
@@ -107,12 +107,12 @@ const Header = ({ lang }) => {
                                     </li>
                                 </ul>
                                 {!user ? (
-                                    <ul className="list-unstyled list-inline bar-login">
+                                    <ul className="list-unstyled list-inline bar-login d-flex align-items-center">
                                         <li className="list-inline-item">
-                                            <Link to={`/${activeLang}/login`}><i className="las la-user"></i> {t.topBar.login}</Link>
+                                            <Link to={`/${activeLang}/login`} className="d-flex align-items-center"><i className="las la-user"></i> {t.topBar.login}</Link>
                                         </li>
                                         <li className="list-inline-item">
-                                            <Link to={`/${activeLang}/registration`}><i className="las la-user-edit"></i> {t.topBar.register}</Link>
+                                            <Link to={`/${activeLang}/registration`} className="d-flex align-items-center"><i className="las la-user-edit"></i> {t.topBar.register}</Link>
                                         </li>
                                     </ul>
                                 ) : ""}
@@ -224,6 +224,9 @@ const Header = ({ lang }) => {
                                         </li>
                                         <li className="nav-item dropdown">
                                             <Link className="nav-link dropdown-toggle" to={`/${activeLang}/media`}>{t.navbar.media}</Link>
+                                        </li>
+                                        <li className="nav-item dropdown">
+                                            <Link className="nav-link dropdown-toggle" to={`/${activeLang}/fund`}>{t.navbar.fund}</Link>
                                         </li>
                                     </ul>
                                     <ul className="nav search-cart-bar">

@@ -9,6 +9,7 @@ import uzFooterTwo from "./locales/uz/uzFooterTwo.json";
 import uzStickyMenu from "./locales/uz/uzStickyMenu.json"
 import uzAboutUs from "./locales/uz/uzAboutUs.json"
 import uzAboutUsMain from "./locales/uz/uzAboutUsMain.json"
+import uzFundMain from "./locales/uz/uzFundMain.json"
 
 // Russian
 import ruRegulation from "./locales/ru/ruRegulation.json";
@@ -17,6 +18,7 @@ import ruFooterTwo from "./locales/ru/ruFooterTwo.json";
 import ruStickyMenu from "./locales/ru/ruStickyMenu.json"
 import ruAboutUs from "./locales/ru/ruAboutUs.json"
 import ruAboutUsMain from "./locales/ru/ruAboutUsMain.json"
+import ruFundMain from "./locales/ru/ruFundMain.json"
 
 // English
 import enRegulation from "./locales/en/enRegulation.json";
@@ -25,6 +27,7 @@ import enFooterTwo from "./locales/en/enFooterTwo.json";
 import enStickyMenu from "./locales/en/enStickyMenu.json"
 import enAboutUs from "./locales/en/enAboutUs.json"
 import enAboutUsMain from "./locales/en/enAboutUsMain.json"
+import enFundMain from "./locales/en/enFundMain.json"
 
 i18n    
     .use(LanguageDetector)
@@ -40,6 +43,7 @@ i18n
 
                 regulation: uzRegulation,
                 footerTwo: uzFooterTwo,
+                fundMain: uzFundMain,
             },
             ru: {
                 headerTwo: ruHeaderTwo,
@@ -50,7 +54,7 @@ i18n
 
                 regulation: ruRegulation,
                 footerTwo: ruFooterTwo,
-
+                fundMain: ruFundMain,
             },
             en: {
                 headerTwo: enHeaderTwo,
@@ -61,7 +65,7 @@ i18n
 
                 regulation: enRegulation,
                 footerTwo: enFooterTwo,
-
+                fundMain: enFundMain,
             },
         },
         fallbackLng: 'uz',

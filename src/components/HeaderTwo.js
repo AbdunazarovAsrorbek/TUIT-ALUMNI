@@ -104,7 +104,7 @@ const HeaderTwo = ({ lang }) => {
                                     </Dropdown>
                                 </li>
                             </ul>
-                            <ul className="list-unstyled list-inline bar-social">
+                            <ul className="list-unstyled list-inline bar-social d-flex align-items-center">
                                 <li className="list-inline-item">
                                     <a href={"https://t.me/tuituz_official"} target={"_blank"} rel="noopener noreferrer">
                                         <i className="fab fa-telegram"></i>
@@ -153,7 +153,7 @@ const HeaderTwo = ({ lang }) => {
                         </div>
                     </Col>
                     <Col md="9">
-                        <div className="menu-box d-flex justify-content-between align-items-center">
+                        <div className="menu-box">
                             <ul className="nav menu-nav">
                                 <li className="nav-item active">
                                     <Link className="nav-link" to={`/${lang}`}>{t("header.menu.home")}</Link>
@@ -172,6 +172,7 @@ const HeaderTwo = ({ lang }) => {
                                     </ul>
                                 </li>
                                 <li className="nav-item"><Link className="nav-link" to={`/${lang}/media`}>{t("header.menu.media")}</Link></li>
+                                <li className="nav-item"><Link className="nav-link" to={`/${lang}/fund`}>{t("header.menu.fund")}</Link></li>
                             </ul>
 
                             {!user ? (

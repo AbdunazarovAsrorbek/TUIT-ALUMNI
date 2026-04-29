@@ -1,0 +1,53 @@
+{
+  "breadcrumbTitle": "Fund",
+  "title": "TUIT Alumni – Alumni Fund Established!",
+  "quote": "Students are the future of our country, and supporting them is an honor.",
+  "description": "Dear TUIT graduates! An official and transparent mechanism — the TUIT Alumni Fund — has been established to support talented, hardworking, financially needy, and differently-abled students studying at our university.",
+  "features": [
+    "You can contribute to scholarships and grants for talented students",
+    "You can support students facing difficult social conditions",
+    "You can help improve student dormitory conditions",
+    "You can assist in modernizing educational laboratories, libraries, and infrastructure",
+    "You can support startups, scientific research, and innovative initiatives"
+  ],
+  "transparency": "The fund operates based on the principles of transparency, openness, and accountability. Regular reports are provided for every allocated fund.",
+  "donation": {
+    "title": "How can you contribute?",
+    "payme": {
+      "title": "Via Payme",
+      "steps": [
+        "Open the Payme application",
+        "Search for “TUIT Alumni”",
+        "Make a donation of any amount"
+      ]
+    },
+    "bank": {
+      "title": "Bank transfer details",
+      "details": [
+        "Treasury of the Ministry of Finance of the Republic of Uzbekistan",
+        "H/R: 23402000300100001010",
+        "TIN: 201122919",
+        "Central Bank",
+        "MFO: 00014, TIN: 201 059 323, IFUT: 85420",
+        "400110860262667094100078001 (UZS)",
+        "400110840262667094100078001 (USD)",
+        "400110978262667094100078001 (EUR)"
+      ]
+    }
+  },
+  "modal": {
+    "title": "Follow the steps below to make a payment via Payme:",
+    "steps": [
+      "1. Open the Payme application",
+      "2. Go to the \"Payments\" section",
+      "3. Navigate to the search section",
+      "4. Type \"TUIT Alumni\" and select our project",
+      "5. Go to the \"Payment\" section",
+      "6. Select the \"Donations to TUIT\" service",
+      "7. Enter the desired amount",
+      "8. Click the \"Confirm payment\" button"
+    ],
+    "button": "Payment guide"
+  },
+  "footerQuote": "A good deed done today can change someone’s life tomorrow."
+}

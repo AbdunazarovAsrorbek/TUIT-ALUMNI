@@ -23,7 +23,7 @@ const Personal = ({ profile, updateProfile }) => {
         position: "",
     });
 
-    const [formErrors, setFormErrors] = useState({
+    const [formErrors] = useState({
         firstName: "",
         lastName: "",
         patronymic: "",
@@ -43,7 +43,7 @@ const Personal = ({ profile, updateProfile }) => {
                 position: profile.position || "",
             });
         }
-    }, [profile?.id]);
+    }, [profile]);
 
     const handleInputChange = (e) => {
         const { id, value } = e.target;

@@ -53,7 +53,10 @@ class TeamSlider extends Component {
                                 <Swiper key={clubMembers.length} {...settings}>
                                     {clubMembers.map((item) => (
                                         <div className="team-item" key={item.id}>
-                                            <img src={url + item.imageUrl} alt="image" />
+                                            <img
+                                                src={url + item.imageUrl}
+                                                alt={item.fullName}
+                                            />
                                             <div className="img-content text-center">
                                                 <h5>{item.fullName}</h5>
                                             </div>

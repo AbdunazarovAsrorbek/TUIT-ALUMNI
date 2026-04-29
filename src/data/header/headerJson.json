@@ -33,7 +33,8 @@
         "alumniClub": "Bitiruvchilar klubi",
         "vacancy": "Vakansiya"
       },
-      "media": "Media"
+      "media": "Media",
+      "fund": "Jamg‘arma"
     },
     "userMenu": {
       "personal": "Shaxsiy ma'lumotlar",
@@ -82,7 +83,8 @@
         "alumniClub": "Клуб выпускников",
         "vacancy": "Вакансии"
       },
-      "media": "Медиа"
+      "media": "Медиа",
+      "fund": "Фонд"
     },
     "userMenu": {
       "personal": "Личные данные",
@@ -131,7 +133,8 @@
         "alumniClub": "Alumni Club",
         "vacancy": "Vacancy"
       },
-      "media": "Media"
+      "media": "Media",
+      "fund": "Fund"
     },
     "userMenu": {
       "personal": "Personal Info",

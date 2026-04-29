@@ -72,7 +72,7 @@ function Sidebar({ lang }) {
 
 
                     </div>
-                    <div><a href={"#"} id="close-sidebar"><i className="las la-times"></i></a></div>
+                    <div><button id="close-sidebar"><i className="las la-times"></i></button></div>
                 </div>
 
                 <div className="side-post">

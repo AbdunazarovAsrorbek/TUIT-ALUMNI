@@ -77,8 +77,9 @@ const EventDetails = ({ location }) => {
                                         <div className="event-details-banner">
                                             <img
                                                 src={`${NewsById?.image?.base_url}/${NewsById?.image?.path}`}
-                                                alt={newsDetails[lang]?.imageAlt}
+                                                alt="EventImage"
                                                 style={{ width: "100%" }}
+
                                             />
                                         </div>
 

@@ -39,7 +39,9 @@ export const Styles = styled.div`
 
             margin-bottom: 40px;
 
-            a {
+            button {
+            border: none;
+            background: none;
                 i {
                     font-size: 18px;
                     color: ${colors.green};

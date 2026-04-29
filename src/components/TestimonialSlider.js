@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect } from 'react';
 import Datas from '../data/testimonial/testimonial-slider.json';
 import { Container, Row, Col } from 'react-bootstrap';
 import Swiper from 'react-id-swiper';

@@ -1,0 +1,53 @@
+{
+  "breadcrumbTitle": "Jamg‘arma",
+  "title": "TUIT Alumni – Bitiruvchilar jamg‘armasi tashkil etildi!",
+  "quote": "Talabalar – mamlakatimiz kelajagi, ularni qo‘llab-quvvatlash esa sharafdir.",
+  "description": "Hurmatli TATU bitiruvchilari! Universitetimizda tahsil olayotgan iqtidorli, mehnatkash, moddiy ko‘makka muhtoj va imkoniyati cheklangan talaba yoshlarni qo‘llab-quvvatlash uchun rasmiy va shaffof mexanizm — TUIT Alumni Jamg‘armasi tashkil etildi.",
+  "features": [
+    "Iqtidorli talabalar stipendiyalari va grantlariga hissa qo‘sha olasiz",
+    "Og‘ir ijtimoiy holatga ega bo‘lgan talabalarga yordam ko‘rsata olasiz",
+    "Talabalar turar joylarining sharoitlarini yaxshilashga hissa qo‘sha olasiz",
+    "O‘quv laboratoriyalari, kutubxona va boshqa infratuzilmani modernizatsiya qilishga ko‘maklashasiz",
+    "Startaplar, ilmiy tadqiqotlar va innovatsion tashabbuslarni qo‘llab-quvvatlay olasiz"
+  ],
+  "transparency": "Jamg‘arma faoliyati shaffoflik, ochiqlik va hisobdorlik tamoyillari asosida boshqariladi. Har bir yo‘naltirilgan mablag‘ bo‘yicha muntazam hisobotlar taqdim etiladi.",
+  "donation": {
+    "title": "Qanday qilib homiylik qilishingiz mumkin?",
+    "payme": {
+      "title": "Payme orqali",
+      "steps": [
+        "Payme ilovasiga kiring",
+        "Qidiruvga “TUIT Alumni” deb yozing",
+        "Istalgan miqdorda xayriya o‘tkazing"
+      ]
+    },
+    "bank": {
+      "title": "Bank orqali to‘lov qilish uchun rekvizitlar",
+      "details": [
+        "O‘z.Resp. Moliya Vazirligi G‘aznachiligi",
+        "H/R: 23402000300100001010",
+        "STIR: 201122919",
+        "XKKM Markaziy bank",
+        "MFO: 00014, STIR: 201 059 323, IFUT: 85420",
+        "400110860262667094100078001 (UZS)",
+        "400110840262667094100078001 (USD)",
+        "400110978262667094100078001 (EUR)"
+      ]
+    }
+  },
+  "modal": {
+    "title": "Payme orqali to‘lov qilish uchun quyidagi qadamlarni bajaring:",
+    "steps": [
+      "1. Payme ilovasini oching",
+      "2. \"To‘lovlar\" bo‘limiga o‘ting",
+      "3. Qidiruv bo‘limiga o‘ting",
+      "4. \"TUIT Alumni\" deb yozing va loyihamizni tanlang",
+      "5. \"To‘lov\" bo‘limiga kiring",
+      "6. \"TUITga xayriyalar\" xizmatini tanlang",
+      "7. Kerakli summani kiriting",
+      "8. \"To‘lovni tasdiqlash\" tugmasini bosing"
+    ],
+    "button": "To‘lov uchun qo‘llanma"
+  },
+  "footerQuote": "Bugun qilingan yaxshilik — ertaga kimningdir taqdirini o‘zgartirishi mumkin."
+}

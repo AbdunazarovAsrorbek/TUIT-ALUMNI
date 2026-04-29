@@ -12,8 +12,7 @@ export const Styles = styled.div`
         animation: 300ms ease-in-out 0s normal none 1 fadeInDown;
         background: #ffffff;
         height: 75px;
-        padding-top: 9px;
-        padding-bottom: 9px;
+        padding: 10px 0;
         box-shadow: 0 0 20px -10px #222222;
 
         .logo {
@@ -33,11 +32,23 @@ export const Styles = styled.div`
                 font-size: 12px;
                 line-height: 1.2;
                 color: #0c5460;
+                @media (max-width: 992px) {
+                    display: none;              
+                }
             }
+
+
         }
 
         div.menu-box {
+                display: flex;
+                align-items: center;
+                justify-content: flex-end;
+                gap: 55px;
             ul.nav.menu-nav {
+            display: flex;
+            align-items: center;    
+            gap: 15px;
                 li.nav-item {
                     position: relative;
 
@@ -46,8 +57,9 @@ export const Styles = styled.div`
                         color: ${colors.black1};
                         text-transform: uppercase;
                         font-weight: 500;
-                        padding: 10px 6px 10px;
-
+                        padding: 0;
+                        // margin-right: 3px;
+                    
                         i {
                             font-size: 12px;
                         }
@@ -61,13 +73,13 @@ export const Styles = styled.div`
                         }
 
                         @media (max-width: 1199px) {
-                            padding-left: 0;
-                            padding-right: 8px;
+                            // padding-left: 0;
+                            // padding-right: 8px;
                         }
 
-                        @media (max-width: 991px) {
-                            padding-right: 6px;
-                        }
+                        // @media (max-width: 991px) {
+                        //     padding-right: 6px;
+                        // }
                     }
 
                     ul.dropdown {
@@ -157,9 +169,6 @@ export const Styles = styled.div`
             }
 
             .apply-btn {
-                margin-left: 70px;
-                // margin-top: 1px;
-
                 a {
                     font-size: 13px;
                     color: #ffffff;
@@ -173,6 +182,7 @@ export const Styles = styled.div`
                     padding: 11px;
                     border-radius: 0 5px 5px 0;
                     position: relative;
+                    white-space: nowrap;
 
                     i {
                         position: absolute;
@@ -191,13 +201,13 @@ export const Styles = styled.div`
                     }
                 }
 
-                @media (max-width: 1199px) {
-                    margin-left: 45px;
-                }
+                // @media (max-width: 1199px) {
+                //                        padding-left: 15px;
+                // }
 
-                @media (max-width: 991px) {
-                    display: none;
-                }
+                // @media (max-width: 991px) {
+                //     padding-left: 15px;
+                // }
             }
 
             .user-settings {
@@ -346,7 +356,8 @@ export const Styles = styled.div`
 
         @media (max-width: 767px) {
             display: none;
-        }
+        }   
+            
     }
 
     .sticky-menu.sticky {

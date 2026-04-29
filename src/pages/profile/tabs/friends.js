@@ -97,7 +97,7 @@ const Friends = ({ profile }) => {
             };
         }
 
-    }, [profile]);
+    }, [profile, dispatch]);
 
     useEffect(() => {
         if (chatUser?.unreadMessageIds) {
@@ -107,7 +107,7 @@ const Friends = ({ profile }) => {
             }));
             dispatch(onGetChatFriends());
         }
-    }, [chatUser]);
+    }, [chatUser, dispatch]);
 
 
     const getAllFriends = createSelector(
@@ -128,7 +128,7 @@ const Friends = ({ profile }) => {
     }, [dispatch, messageList, chatOpen]);
 
     useEffect(() => {
-        if (friends, chatFriends) {
+        if (friends || chatFriends) {
             setListView(friends, chatFriends);
         }
     }, [friends, chatFriends])

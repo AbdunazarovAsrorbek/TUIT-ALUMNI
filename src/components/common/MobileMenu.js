@@ -33,7 +33,7 @@ function MobileMenu({ lang }) {
     const handleChangeLang = (lng) => {
         setActiveLang(lng);
         i18n.changeLanguage(lng);
-        localStorage.setItem('appLang', lng); 
+        localStorage.setItem('appLang', lng);
         const currentPath = window.location.pathname;
         const newPath = currentPath.replace(/^\/(uz|ru|en)/, `/${lng}`);
         history.push(newPath);
@@ -210,9 +210,13 @@ function MobileMenu({ lang }) {
 
             {/* Sidebar */}
             <section className="mb-sidebar" id="mb-sidebar-body">
-                <div className="mb-sidebar-heading d-flex justify-content-between">
+                <div className="mb-sidebar-heading d-flex align-items-center justify-content-between">
                     <h5>{menuText[activeLang].menu.home}</h5>
-                    <a href="#" id="close-mb-sidebar"><i className="las la-times"></i></a>
+                    <button
+                        // style={{ background: "none", border: "none", padding: 0, color: "white", fontSize: 22 }}
+                        id="close-mb-sidebar"
+                    >
+                        <i className="las la-times"></i></button>
                 </div>
                 <div className="mb-sidebar-menu">
                     <div className="mb-menu-item"><Link to={`/${lang}`} className="mb-menu-Link">{menuText[activeLang].menu.home}</Link></div>

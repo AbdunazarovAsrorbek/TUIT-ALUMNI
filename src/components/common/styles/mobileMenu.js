@@ -326,7 +326,9 @@ export const Styles = styled.div`
                 text-transform: uppercase;
             }
 
-            a#close-mb-sidebar {
+            button#close-mb-sidebar {
+            border: none;
+            background: none;
                 i {
                     font-size: 22px;
                     color: #ffffff;

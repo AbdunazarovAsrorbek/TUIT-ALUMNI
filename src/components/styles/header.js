@@ -143,8 +143,6 @@ export const Styles = styled.div`
                 }
 
                 @media (max-width: 991px) {
-                    border-right: none;
-                    padding: 10px 0px;
                 }
             }
 
@@ -156,6 +154,9 @@ export const Styles = styled.div`
                     display: inline-block;
 
                     a {
+                        display: inline-flex;     
+                        align-items: center;    
+                        white-space: nowrap;     
                         font-size: 13px;
                         color: ${colors.text4};
 
@@ -172,8 +173,6 @@ export const Styles = styled.div`
                     }
 
                     @media (max-width: 991px) {
-                        border-right: none;
-                        padding-right: 0;
                     }
                 }
             }
@@ -204,6 +203,9 @@ export const Styles = styled.div`
                     font-size: 12px;
                     line-height: 1.4;
                     color: #0c5460;
+                        @media (max-width: 991px) {
+                            display: none;
+                            }
                 }
             }
         }
@@ -495,7 +497,7 @@ export const Styles = styled.div`
                             text-transform: uppercase;
                             font-weight: 500;
                             padding: 18px 25px 15px 0;
-
+                            margin-right: 3px;
                             i {
                                 font-size: 12px;
                             }

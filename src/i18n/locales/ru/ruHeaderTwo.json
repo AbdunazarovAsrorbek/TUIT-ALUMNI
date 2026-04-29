@@ -21,7 +21,8 @@
         "graduates_list": "Список выпускников",
         "graduates_association": "Клуб выпускников",
         "vacancy": "Вакансии",
-        "media": "Медиа"
+        "media": "Медиа",
+        "fund": "Фонд"
       },
     
       "auth": {

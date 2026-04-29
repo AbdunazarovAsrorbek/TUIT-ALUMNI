@@ -33,6 +33,7 @@ import EventById from '../pages/events/EventById';
 import SidebarPopularCourse from '../pages/events/SidebarPopularCourse';
 import Vacancy from '../pages/vacancy/Vacancy';
 import VacancyList from '../pages/vacancy/VacancyList';
+import Fund from '../pages/fund/Fund';
 
 const LanguageRoutes = () => {
     const { lang } = useParams();
@@ -53,6 +54,7 @@ const LanguageRoutes = () => {
             <Route path={`/${lang}/instructor`} component={Instructor} lang={lang} />
             <Route path={`/${lang}/instructor-details`} component={InstructorDetails} lang={lang} />
             <Route path={`/${lang}/media`} component={Gallery} lang={lang} />
+            <Route path={`/${lang}/fund`} component={Fund} lang={lang} />
             <Route path={`/${lang}/event-details`} component={EventDetails} lang={lang} />
             <Route path={`/${lang}/eventById`} component={EventById} lang={lang} />
             <Route path={`/${lang}/contact`} component={Contact} lang={lang} />

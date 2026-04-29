@@ -4,6 +4,9 @@
             "id": "1",
             "backgroundImage": "hero_bac_new.jpg",
             "uniqClass": "slider-box slider-box1",
+            "style": {
+                "color": "#FFFFFF"
+            },
             "title": "Bitiruvchilar assotsatsiyasi.",
             "desc": "Muhammad al-Xorazmiy nomidagi TATU bitiruvchilari",
             "btnOneLink": "course-grid",
@@ -13,14 +16,17 @@
         },
         {
             "id": "2",
-            "backgroundImage": "hero_bac.jpg",
+            "backgroundImage": "hero_bg2.png",
             "uniqClass": "slider-box slider-box2 text-right",
-            "title": "Bitiruvchilar assotsatsiyasi.",
-            "desc": "Muhammad al-Xorazmiy nomidagi TATU bitiruvchilari",
-            "btnOneLink": "course-grid",
+            "style": {
+                "color": "#FFFFFF"
+            },
+            "title": "Bitiruvchilar assotsiatsiyasi",
+            "desc": "TATU bitiruvchilari jamiyatining \n rivojiga o‘z hissangizni \n qo‘shishni xohlaysizmi?",
+            "btnOneLink": "payme",
             "btnTwoLink": "contact",
-            "login": "Kirish",
-            "register": "A'zo bo'lish"
+            "login": "Payme",
+            "register": "Batafsil"
         }
     ],
     "ru": [
@@ -28,6 +34,9 @@
             "id": "1",
             "backgroundImage": "hero_bac_new.jpg",
             "uniqClass": "slider-box slider-box1",
+            "style": {
+                "color": "#FFFFFF"
+            },
             "title": "Ассоциация выпускников.",
             "desc": "Выпускники ТАТУ имени Мухаммада аль-Хорезми",
             "btnOneLink": "course-grid",
@@ -37,14 +46,17 @@
         },
         {
             "id": "2",
-            "backgroundImage": "hero_bac.jpg",
+            "backgroundImage": "hero_bg2.png",
             "uniqClass": "slider-box slider-box2 text-right",
-            "title": "Ассоциация выпускников.",
-            "desc": "Выпускники ТАТУ имени Мухаммада аль-Хорезми",
-            "btnOneLink": "course-grid",
+            "style": {
+                "color": "#FFFFFF"
+            },
+            "title": "Ассоциация выпускников",
+            "desc": "Хотите внести свой \n вклад в развитие сообщества \n выпускников ТАТУ?",
+            "btnOneLink": "payme",
             "btnTwoLink": "contact",
-            "login": "Вход",
-            "register": "Стать участником"
+            "login": "Payme",
+            "register": "Подробнее"
         }
     ],
     "en": [
@@ -52,6 +64,9 @@
             "id": "1",
             "backgroundImage": "hero_bac_new.jpg",
             "uniqClass": "slider-box slider-box1",
+            "style": {
+                "color": "#FFFFFF"
+            },
             "title": "Alumni Association.",
             "desc": "Graduates of Muhammad al-Khwarizmi TATU",
             "btnOneLink": "course-grid",
@@ -61,14 +76,17 @@
         },
         {
             "id": "2",
-            "backgroundImage": "hero_bac.jpg",
+            "backgroundImage": "hero_bg2.png",
             "uniqClass": "slider-box slider-box2 text-right",
-            "title": "Alumni Association.",
-            "desc": "Graduates of Muhammad al-Khwarizmi TATU",
-            "btnOneLink": "course-grid",
+            "style": {
+                "color": "#FFFFFF"
+            },
+            "title": "Alumni Association",
+            "desc": "Would you like to contribute \n to the development of the \n TUIT alumni community?",
+            "btnOneLink": "payme",
             "btnTwoLink": "contact",
-            "login": "Log In",
-            "register": "Register"
+            "login": "Payme",
+            "register": "Learn more"
         }
     ]
 }

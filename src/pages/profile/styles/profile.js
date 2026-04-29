@@ -315,7 +315,7 @@ export const Styles = styled.div`
     }
 
     .profile-content {
-
+        // padding-left: 20px;
         h2 {
             color: #182B49;
             font-size: 26px;
@@ -340,6 +340,10 @@ export const Styles = styled.div`
                     margin-right: 6px;
                 }
             }
+        }
+
+        @media (min-width: 992px) and (max-width: 1200px) {
+            padding-left: 22.5px;
         }
 
         @media (max-width: 576px) {

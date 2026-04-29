@@ -33,7 +33,7 @@ const Graduates = () => {
 
     useEffect(() => {
         dispatch(onGraduates(dataSearch));
-    }, [dispatch]);
+    }, [dispatch, dataSearch]);
 
     useEffect(() => {
         if (graduate) setListView(graduate);

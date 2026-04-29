@@ -53,18 +53,18 @@ export const Styles = styled.div`
                                 .slider-title {
                                     p {
                                         font-size     : 18px;
-                                        color         : ${colors.border3};
+                                        // color         : ${colors.border3};
                                         text-transform: uppercase;
                                         margin-bottom : 8px;
                                     }
                                 }
 
                                 .slider-desc {
+                                        margin-bottom: 32px;
                                     h1 {
                                         font-size    : 46px;
-                                        color        : #ffffff;
+                                        // color     : #ffffff;
                                         max-width    : 700px;
-                                        margin-bottom: 32px;
                                         font-weight  : 600;
 
                                         @media(max-width: 767px) {
@@ -76,8 +76,6 @@ export const Styles = styled.div`
 
                                 .slider-btn {
                                     
-                                   
-
                                     a.slider-btn1 {
                                         font-size : 14px;
                                         color     : #fff;
@@ -88,31 +86,76 @@ export const Styles = styled.div`
                                         text-align: center;
                                         padding   : 11px;
                                         border-radius : 5px;
+                                        opacity   : 1 !important;
+                                        transition: background 0.3s ease;
+                                        outline   : none !important;
+                                        box-shadow: none !important;
+                                        border    : none;
+                                        cursor    : pointer;
 
                                         &:hover {
                                             background: ${colors.gr_bg2};
+                                            opacity   : 1 !important;
+                                        }
+
+                                        &:active {
+                                            background: ${colors.gr_bg2};
+                                            opacity   : 1 !important;
+                                        }
+
+                                        &:focus {
+                                            outline   : none !important;
+                                            box-shadow: none !important;
+                                            background: ${colors.gr_bg};
+                                            opacity   : 1 !important;
+                                        }
+
+                                        &:visited {
+                                            opacity   : 1 !important;
                                         }
                                     }
 
                                     a.slider-btn2 {
                                         font-size : 14px;
                                         color     : #fff;
-                                        display   : inline-block;
                                         background: ${colors.bg1};
+                                        display   : inline-block;
                                         width     : 145px;
                                         height    : 40px;
                                         text-align: center;
-                                        padding   : 11px 0;
+                                        padding   : 11px ;
                                         border-radius : 5px;
                                         margin-left: 15px;
+                                        opacity   : 1 !important;
+                                        transition: background 0.3s ease;
+                                        outline   : none !important;
+                                        box-shadow: none !important;
+                                        border    : none;
+                                        cursor    : pointer;
 
                                         &:hover {
-                                            background: ${colors.gr_bg};
-                                            border    : none;
-                                            color     : #ffffff;
+                                            background: ${colors.bg3};
+                                            opacity   : 1 !important;
+                                        }
+
+                                        &:active {
+                                            background: ${colors.bg3};
+                                            opacity   : 1 !important;
+                                        }
+
+                                        &:focus {
+                                            outline   : none !important;
+                                            box-shadow: none !important;
+                                            background: ${colors.bg1};
+                                            opacity   : 1 !important;
+                                        }
+
+                                        &:visited {
+                                            opacity   : 1 !important;
                                         }
                                     }
                                 }
+
                                 @media(max-width: 575px) {
                                     text-align  : center !important;
                                 }

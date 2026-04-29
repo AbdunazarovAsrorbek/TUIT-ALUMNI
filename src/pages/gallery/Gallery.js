@@ -67,7 +67,7 @@ const Gallery = ({ location }) => {
         const params = new URLSearchParams(location.search);
         params.set("page", pagination);
         history.replace({ search: params.toString() });
-    }, [pagination]);
+    }, [pagination, history, location.search]);
 
     return (
         <Styles>

@@ -31,8 +31,8 @@ export const Styles = styled.div`
                         margin-right: 8px;
                     }
 
-                    @media (max-width: 991px) {
-                        font-size: 13px;
+                    @media (max-width: 992px) {
+                        display: none;
                     }
                 }
             }
@@ -188,8 +188,8 @@ export const Styles = styled.div`
     }
 
     .logo-area2 {
-        //height: 82px;
-        padding: 7px 0;
+        height: 75px;
+        padding: 10px 0;
 
         .logo {
             a {
@@ -208,11 +208,21 @@ export const Styles = styled.div`
                 font-size: 12px;
                 line-height: 1.3;
                 color: #0c5460;
+                @media (max-width: 992px) {
+                    display: none;
+                }
             }
         }
 
         div.menu-box {
+                display: flex;
+                align-items: center;
+                justify-content: flex-end;
+                gap: 55px;
             ul.nav.menu-nav {
+            display: flex;
+            align-items: center;    
+            gap: 15px;
                 li.nav-item {
                     position: relative;
 
@@ -221,7 +231,8 @@ export const Styles = styled.div`
                         color: ${colors.black1};
                         text-transform: uppercase;
                         font-weight: 500;
-                        padding: 10px 10px 10px;
+                        padding: 0;
+                        // padding: 10px 10px 10px;
 
                         i {
                             font-size: 12px;
@@ -236,8 +247,14 @@ export const Styles = styled.div`
                         }
 
                         @media (max-width: 1199px) {
-                            padding: 10px 2px 20px;
-                            letter-spacing: 0;
+                            // padding: 10px 2px 20px;
+                            // letter-spacing: 0;
+                            // padding-left: 0;
+                            // padding-right: 8px;
+                        }
+
+                        @media (max-width: 991px) {
+                            // padding-right: 6px;
                         }
                     }
 
@@ -372,7 +389,7 @@ export const Styles = styled.div`
                     padding: 11px;
                     border-radius: 0 5px 5px 0;
                     position: relative;
-
+                    white-space: nowrap;
                     i {
                         position: absolute;
                         font-size: 20px;
@@ -390,9 +407,9 @@ export const Styles = styled.div`
                     }
                 }
 
-                @media (max-width: 991px) {
-                    display: none;
-                }
+                // @media (max-width: 991px) {
+                //     display: none;
+                // }
             }
 
             .user-settings {
@@ -543,6 +560,10 @@ export const Styles = styled.div`
 
         @media (max-width: 767px) {
             display: none;
+        }
+
+        @media (max-width: 911px) {
+            padding: 3.5px 0;
         }
     }
 `;

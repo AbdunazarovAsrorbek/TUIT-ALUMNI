@@ -10,6 +10,8 @@ import { toast } from "react-toastify";
 export const getProfile = createAsyncThunk("Profile/getProfile", async () => {
     try {
         const response = await getProfileApi();
+        console.log(response);
+        
         return response;
     } catch (error) {
         return error;

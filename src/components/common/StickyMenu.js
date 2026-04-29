@@ -55,7 +55,7 @@ function StickyMenu({ lang }) {
                             </div>
                         </Col>
                         <Col md="9">
-                            <div className="menu-box d-flex justify-content-between align-items-center">
+                            <div className="menu-box">
                                 <ul className="nav menu-nav">
                                     <li className="nav-item active">
                                         <Link className="nav-link" to={`/${lang}`}>
@@ -102,6 +102,11 @@ function StickyMenu({ lang }) {
                                     <li className="nav-item">
                                         <Link className="nav-link" to={`/${lang}/media`}>
                                             {t("media")}
+                                        </Link>
+                                    </li>
+                                    <li className="nav-item">
+                                        <Link className="nav-link" to={`/${lang}/fund`}>
+                                            {t("fund")}
                                         </Link>
                                     </li>
                                 </ul>

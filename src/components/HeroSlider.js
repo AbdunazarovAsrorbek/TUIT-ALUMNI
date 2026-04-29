@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 import { Container, Row, Col } from 'react-bootstrap';
 import Swiper from 'react-id-swiper';
 import { Styles } from "./styles/heroSlider.js";
+import { colors } from './common/element/elements.js';
 
 const HeroSlider = ({ lang }) => {
 
@@ -23,12 +24,12 @@ const HeroSlider = ({ lang }) => {
             nextEl: '.slider-button-next',
             prevEl: '.slider-button-prev'
         },
-        renderPrevButton: () => (
-            <div className="swiper-btn slider-button-prev"><i className="flaticon-arrow-left-th"></i></div>
-        ),
-        renderNextButton: () => (
-            <div className="swiper-btn slider-button-next"><i className="flaticon-arrow-right-th"></i></div>
-        )
+        // renderPrevButton: () => (
+        //     <div className="swiper-btn slider-button-prev"><i className="flaticon-arrow-left-th"></i></div>
+        // ),
+        // renderNextButton: () => (
+        //     <div className="swiper-btn slider-button-next"><i className="flaticon-arrow-right-th"></i></div>
+        // )
     };
 
     return (
@@ -49,18 +50,55 @@ const HeroSlider = ({ lang }) => {
                                             <Row>
                                                 <Col md="12">
                                                     <div className={data.uniqClass}>
-                                                        <div className="slider-title">
-                                                            <p>{data.title}</p>
+                                                        <div className="slider-title"
+                                                        >
+                                                            <p
+                                                                style={{
+                                                                    ...data.style,
+                                                                    ...(data.id === "2" && {
+                                                                        background: colors.gr_bg,
+                                                                        display: "inline-block",
+                                                                        padding: "4px 8px",
+                                                                        borderRadius: "5px"
+                                                                    })
+                                                                }}
+                                                            >{data.title}</p>
                                                         </div>
-                                                        <div className="slider-desc">
-                                                            <h1>{data.desc}</h1>
+
+                                                        <div className="slider-desc"
+                                                        >
+                                                            <h1
+                                                                style={{
+                                                                    ...data.style,
+                                                                    ...(data.id === "2" && {
+                                                                        background: colors.gr_bg,
+                                                                        display: "inline",
+                                                                        maxWidth: "600px",
+                                                                        padding: "4px 8px",
+                                                                        borderRadius: "5px",
+                                                                        fontWeight: "500",
+                                                                        fontSize: "36px",
+                                                                        lineHeight: "1.7",
+                                                                        WebkitBoxDecorationBreak: "clone",
+                                                                        boxDecorationBreak: "clone",
+                                                                        whiteSpace: "pre-line",
+                                                                    })
+                                                                }}
+                                                            >{data.desc}</h1>
                                                         </div>
-                                                        {!authAlumni && (
+                                                        {!authAlumni && data.id === "1" && (
                                                             <div className="slider-btn">
                                                                 <Link className="slider-btn1" to={`/${lang}/login`}>
                                                                     {data.login}
                                                                 </Link>
                                                                 <Link className="slider-btn2" to={`/${lang}/register`}>
+                                                                    {data.register}
+                                                                </Link>
+                                                            </div>
+                                                        )}
+                                                        {!authAlumni && data.id === "2" && (
+                                                            <div className="slider-btn">
+                                                                <Link className="slider-btn2" to={`/${lang}/${data.btnOneLink}`}>
                                                                     {data.register}
                                                                 </Link>
                                                             </div>
@@ -76,7 +114,7 @@ const HeroSlider = ({ lang }) => {
                     }
                 </Swiper>
             </section>
-        </Styles>
+        </Styles >
     )
 
 }

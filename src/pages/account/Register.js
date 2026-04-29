@@ -190,9 +190,12 @@ const Register = ({ location }) => {
                                             <label htmlFor="facultyId">{textData[lang].facultyId}:</label>
                                             <select id="facultyId" value={formData.facultyId} onChange={handleInputChange}>
                                                 <option value="">{textData[lang].facultyId}</option>
-                                                {facultyList.map((faculty) => (
-                                                    <option key={faculty.id} value={faculty.id}>{faculty.name}</option>
-                                                ))}
+                                                {Array.isArray(facultyList) &&
+                                                    facultyList?.map((faculty) => (
+                                                        <option key={faculty?.id} value={faculty?.id}>
+                                                            {faculty?.name}
+                                                        </option>
+                                                    ))}
                                             </select>
                                             <span>{formErrors.facultyId}</span>
                                         </p>
@@ -295,14 +298,14 @@ const Register = ({ location }) => {
                                     d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9" />
                             </svg>
                         </div>
-                        <p style={{fontSize:15}}>{textData[lang].successModal}</p>
+                        <p style={{ fontSize: 15 }}>{textData[lang].successModal}</p>
                         <div style={{ fontSize: "17px", textAlign: "left", marginTop: "7px" }}>
                             <span>Login sahifasiga o‘tish:</span>
-                            <Link to={`/${lang}/login`} style={{ marginLeft: 8, fontWeight: "600", color: "#4a2559",fontSize:17 }}>{textData[lang].login}</Link>
+                            <Link to={`/${lang}/login`} style={{ marginLeft: 8, fontWeight: "600", color: "#4a2559", fontSize: 17 }}>{textData[lang].login}</Link>
                         </div>
                     </Modal.Body>
                     <Modal.Footer>
-                        <Button  onClick={handleClose} style={{ backgroundColor: "#4a2559" }}>Yopish</Button>
+                        <Button onClick={handleClose} style={{ backgroundColor: "#4a2559" }}>Yopish</Button>
                     </Modal.Footer>
                 </Modal>
 
